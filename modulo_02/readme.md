@@ -1,0 +1,3 @@
+Bibliotecas básicas
+Numpy
+Pandas
