@@ -1,0 +1,1 @@
+Ciência de dados é o processo de extrair insights e conhecimento útil de dados, utilizando técnicas de estatística, aprendizado de máquina e outras disciplinas. Isso pode incluir coleta, limpeza, análise e visualização de dados, bem como aplicação de modelos para prever eventos futuros ou identificar tendências.
