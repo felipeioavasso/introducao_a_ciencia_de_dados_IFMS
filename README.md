@@ -1,2 +1,2 @@
-OBEJTIVO:
-  Estudos do curso de introdução a Ciência de dados do IFMS
+## OBJETIVO
+Estudos do curso de introdução à Ciência de Dados do IFMS
